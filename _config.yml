@@ -1,7 +1,7 @@
-title: Your awesome title
-name: Your Name
-email: your-email@example.com
-description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+title: Dev.FallingStudy
+name: Dev.Fallingstar
+email: devfallingstar@gmail.com
+description: 재밌고, 행복하고, 흥미로운 프로젝트를 만들기위해 온 노력을 다하는 개발자 Fallingstar입니다. 톡톡 튀는 아이디어로 여러분께 흐뭇한 미소를 선사해드립니다.
 
 baseurl: "/blog"
 url: ""
@@ -9,143 +9,143 @@ url: ""
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "First Project"
-project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one: 별다줄 프로젝트
+project_one_description: 요즘 누가 맥도날드에서 상하이 스파이시 치킨 버거 콤보를 달라고 하나요? 인싸들은 상스치콤 하나 주세요~ 라고 합니다. 어떻게 말을 줄여야할지 모르겠다구요? 파이썬 기반의 별다줄 프로젝트가 여러분을 도와드립니다.
+project_one_url: https://github.com/DevFallingstudy/Deep-Learning
 project_one_icon: location_on
 
-project_two: Second Project
-project_two_description: Describe your project!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
+project_two: AV배우 탐색기
+project_two_description: 일본은 AV(Adult Video)를 정식으로 수출할 정도로 굉장히 성 문화가 발달한 나라입니다. 가끔은 그들의 이름이 아닌, 사진만을 가지고 있을때가 있죠. 그 배우가 누군지 알기 위해 미리 자신만의 AV배우 딥러닝 모델을 만들기 위한 프로젝트입니다.
+project_two_url: https://github.com/DevFallingstudy/AV-Actor-Finder
 project_two_icon: photo_camera
 
 
-project_three: Third Project
-project_three_description: Describe your project!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
+project_three: 딥러닝 스터디 문서
+project_three_description: 최근 딥러닝은 마치 과거의(혹은 현재의) C언어처럼 개발자가 가져야할 기본적인 지식으로 자리잡고 있습니다. 지식을 머리 속에 효율적으로 입력하기위해 문서를 정리하고 있습니다.
+project_three_url: https://github.com/DevFallingstudy/Deep-Learning
 project_three_icon: hotel
 
 
-project_four: Fourth Project
-project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
+project_four: 뭘하는 사람일까
+project_four_description: 도대체 제가 뭐하는 사람인지 모르겠다고요? 그럼 제 깃허브 프로필을 확인해보시는게 좋겠군요. 팔로우 및 기술적인 지식 공유와 토론은 언제나 환영합니다!
+project_four_url: https://github.com/devFallingstar
 project_four_icon: restaurant
 
-portfolio_heading: Portfolio
+portfolio_heading: 관리 중인 프로젝트
 portfolio_type: cards
 
 syntax_highlighting: true
 # Skill icons from https://konpa.github.io/devicon/
 
 skills:
-  - name: amazonwebservices
+  # - name: amazonwebservices
   - name: android
-  - name: angularjs
+  # - name: angularjs
   - name: apache
-  - name: appcelerator
+  # - name: appcelerator
   - name: apple
   - name: atom
-  - name: babel
-  - name: backbonejs
-  - name: bitbucket
-  - name: bootstrap
-  - name: bower
+  # - name: babel
+  # - name: backbonejs
+  # - name: bitbucket
+  # - name: bootstrap
+  # - name: bower
   - name: c
   - name: chrome
-  - name: codeigniter
-  - name: coffescript
-  - name: confluence
+  # - name: codeigniter
+  # - name: coffescript
+  # - name: confluence
   - name: cplusplus
   - name: csharp
-  - name: css3
-  - name: cucumber
-  - name: d3js
-  - name: debian
-  - name: devicon
+  # - name: css3
+  # - name: cucumber
+  # - name: d3js
+  # - name: debian
+  # - name: devicon
   - name: django
   - name: docker
-  - name: doctrine
-  - name: dot-net
-  - name: drupal
-  - name: erlang
+  # - name: doctrine
+  # - name: dot-net
+  # - name: drupal
+  # - name: erlang
   - name: facebook
   - name: firefox
-  - name: foundation
-  - name: gatling
-  - name: gimp
+  # - name: foundation
+  # - name: gatling
+  # - name: gimp
   - name: git
   - name: github
   - name: gitlab
   - name: go
   - name: google
   - name: gradle
-  - name: grunt
-  - name: gulp
-  - name: heroku
-  - name: html5
-  - name: ie10
-  - name: illustrator
-  - name: inkscape
-  - name: itellij
+  # - name: grunt
+  # - name: gulp
+  # - name: heroku
+  # - name: html5
+  # - name: ie10
+  # - name: illustrator
+  # - name: inkscape
+  # - name: itellij
   - name: java
-  - name: jasmine
+  # - name: jasmine
   - name: javascript
-  - name: laravel
-  - name: less
+  # - name: laravel
+  # - name: less
   - name: linux
-  - name: meteor
-  - name: mocha
+  # - name: meteor
+  # - name: mocha
   - name: mongodb
-  - name: moodle
+  # - name: moodle
   - name: mysql
-  - name: nginx
+  # - name: nginx
   - name: nodejs
-  - name: nodewebkit
-  - name: oracle
+  # - name: nodewebkit
+  # - name: oracle
   - name: photoshop
-  - name: php
-  - name: phpstorm
-  - name: protractor
+  # - name: php
+  # - name: phpstorm
+  # - name: protractor
   - name: postgresql
   - name: python
   - name: pycharm
-  - name: rails
+  # - name: rails
   - name: react
-  - name: redhat
+  # - name: redhat
   - name: redis
-  - name: ruby
-  - name: rubymine
+  # - name: ruby
+  # - name: rubymine
   - name: safari
-  - name: sass
-  - name: sequelize
+  # - name: sass
+  # - name: sequelize
   - name: slack
-  - name: sourcetree
+  # - name: sourcetree
   - name: ssh
   - name: swift
-  - name: symfony
+  # - name: symfony
   - name: tomcat
-  - name: travis
+  # - name: travis
   - name: trello
   - name: twitter
-  - name: typescript
+  # - name: typescript
   - name: ubuntu
   - name: vim
   - name: visualstudio
   - name: vuejs
-  - name: webpack
-  - name: webstorm
-  - name: windows8
+  # - name: webpack
+  # - name: webstorm
+  # - name: windows8
   - name: wordpress
-  - name: yii
-  - name: zend
+  # - name: yii
+  # - name: zend
 
 icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
 
 project_button: Github
 
-github: https://github.com/jameshamann/jekyll-material-theme
-medium: https://medium.com
+github: https://github.com/devFallingstar
+medium: https://medium.com/devfallingstar
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
 url: http://localhost:4000/ #the url of your site
@@ -154,9 +154,9 @@ url: http://localhost:4000/ #the url of your site
 tag_manager_id: # This looks something like GTM-XXXXXXX
 google_analytics_tracking_id: # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
 
-cookies_banner: show # The value "show" will show the cookies banner, the value "none" will hide the banner.
+cookies_banner: hide # The value "show" will show the cookies banner, the value "none" will hide the banner.
 
-cookie_accept_message: Thanks!
+cookie_accept_message: 승인해주셔서 고맙습니다!
 
 syntax_highlighting: true # include the css for syntax highlighting
 
